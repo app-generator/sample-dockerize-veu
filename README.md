@@ -2,6 +2,21 @@
 
 This is a hello world app that is written in Javascript using [Vue.js](https://vuejs.org/) framework, packaged using [Docker](https://www.docker.com/).
 
+<br />
+
+## ✨ Quick Start in `Docker`
+
+@Todo - the minimal set up to start the project. Something like:
+
+```bash
+$ git clone repo
+$ docker-compose up --build
+```
+
+At this point, the app runs at `localhost:9999`
+
+<br />
+
 ## Generating Vue.js Apps
 
 Vue.js uses [Node.js](https://nodejs.org/) to transpile the source code into Javascript code that can run in client's web browser. Make sure to have Node.js installed and its package manager, `npm`.
