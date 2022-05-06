@@ -13,7 +13,7 @@ $ git clone repo
 $ docker-compose up --build
 ```
 
-At this point, the app runs at `localhost:9999`
+At this point, the app runs at `localhost:8080`
 
 <br />
 

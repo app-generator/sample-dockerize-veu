@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        NODE_VERSION: 18
+        NODE_VERSION: 16
     restart: unless-stopped
     ports:
-      - 80:80
+      - 8080:80
